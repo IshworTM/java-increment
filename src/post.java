@@ -5,6 +5,6 @@ public class post {
         System.out.println("X before increment: "+x);
         int y = x++;
         System.out.println("X after increment: "+x);
-        System.out.println("Y after increment: "+ y);
+        System.out.println("Y after increment: "+y);
     }
 }
