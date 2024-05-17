@@ -1,4 +1,4 @@
-package increment_type;
+package increment_type.src;
 public class post {
     public static void main(String[] args) {
         int x = 10;
